@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'SQLiteObject'
+  s.name             = 'SQLiteObject_Swift'
   s.version          = '0.1.0'
   s.summary          = 'SQLite简易封装库'
 
