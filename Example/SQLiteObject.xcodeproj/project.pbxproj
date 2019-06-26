@@ -44,7 +44,7 @@
 		607FACE51AFB9204008FA782 /* SQLiteObject_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SQLiteObject_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		611F15019830DC8745369F59 /* SQLiteObject.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SQLiteObject.podspec; path = ../SQLiteObject.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		611F15019830DC8745369F59 /* SQLiteObject_Swift.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SQLiteObject_Swift.podspec; path = ../SQLiteObject_Swift.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		81897E8974F9E3D6EC762E85 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		C8E7DA0022BF9B300035F3F1 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		CBDEA577FDFC2A70FBBF5A45 /* Pods-SQLiteObject_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SQLiteObject_Example.debug.xcconfig"; path = "Target Support Files/Pods-SQLiteObject_Example/Pods-SQLiteObject_Example.debug.xcconfig"; sourceTree = "<group>"; };
@@ -135,7 +135,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				611F15019830DC8745369F59 /* SQLiteObject.podspec */,
+				611F15019830DC8745369F59 /* SQLiteObject_Swift.podspec */,
 				81897E8974F9E3D6EC762E85 /* README.md */,
 				F58F4CE1BE00B54FD877C486 /* LICENSE */,
 			);
